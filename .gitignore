@@ -1,0 +1,8 @@
+.base/
+__pycache__/
+*.mp4
+*.cfg
+*.weights
+*.hdf5
+*.h5
+System Volume Information/
