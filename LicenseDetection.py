@@ -1,5 +1,4 @@
-# ProjectGurukul Number plate recognition
-# import necessary packages
+
 
 import cv2
 import easyocr
